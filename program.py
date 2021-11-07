@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 
 # id, fname, lname, address, mobile_no
 
@@ -24,4 +22,4 @@ danny.__dict__['lname'] = 'cohen'
 danny.__dict__['address'] = 'tel aviv levontin 30'
 danny.__dict__['mobile_no'] = '05026353265'
 '''
->>>>>>> Stashed changes
+
